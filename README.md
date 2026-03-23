@@ -49,9 +49,4 @@ All required packages are listed in `requirements.txt`.
 
 ---
 
-## Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/air-quality-lstm.git
-   cd air-quality-lstm
